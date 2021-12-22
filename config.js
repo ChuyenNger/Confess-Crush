@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Hé Lu",
     introTitle: 'MinhDue',
-    introDesc: `bạn êuuu`,
+    introDesc: 'bạn iuuuu',
     btnIntro: '^^HiHi^^',
     title: 'say bạn từ lúc mới wen 🥰',
     desc: 'bạn làm mình quay cuồng trong cơn mer ',
